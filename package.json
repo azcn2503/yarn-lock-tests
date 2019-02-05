@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:azcn2503/yarn-lock-tests.git",
   "author": "Aaron Cunnington <aaron.cunnington@ripjar.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-table": "6.8.6"
+  }
 }
